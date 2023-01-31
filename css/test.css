@@ -1,0 +1,19 @@
+body{
+	background-color: greenyellow;
+}
+h1{
+font-size: 30px;
+color: #8F1ADF;
+}
+
+h2{
+color: darkred;
+}
+
+.tits{
+font-size: 45px;
+}
+
+.up{
+text-transform: uppercase;
+}
